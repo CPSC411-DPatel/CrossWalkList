@@ -2,7 +2,7 @@
 //  Settings.swift
 //  CrossWalkList
 //
-//  Created by Paul Inventado on 3/21/22.
+//  
 //
 
 import SwiftUI
