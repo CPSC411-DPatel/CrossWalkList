@@ -2,8 +2,7 @@
 //  CrossWalkListTests.swift
 //  CrossWalkListTests
 //
-// 
-//
+
 
 import XCTest
 @testable import CrossWalkList
