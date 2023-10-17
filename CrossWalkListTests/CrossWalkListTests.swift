@@ -2,7 +2,7 @@
 //  CrossWalkListTests.swift
 //  CrossWalkListTests
 //
-//  Created by Paul Inventado on 3/16/22.
+// 
 //
 
 import XCTest
