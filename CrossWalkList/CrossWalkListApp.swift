@@ -2,7 +2,7 @@
 //  CrossWalkListApp.swift
 //  CrossWalkList
 //
-//  Created by Paul Inventado on 3/16/22.
+// 
 //
 
 import SwiftUI
